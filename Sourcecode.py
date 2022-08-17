@@ -16,8 +16,10 @@ def fun_label():  # Defining the fuction
 # It is used to read the excel file from the given location
 var = pd.read_excel("E:/Raj programming/Data Analytics/STATE DATA.xlsx")
 # Head is the function of Pandas used to print the first 5 lines of sheet
+print("Printing the first 5 lines of Table :")
 print(var.head())
 # Tail is the function of Pandas used to print the last 5 lines of sheet
+print("\nPrinting the Last 5 lines of Table :")
 print(var.tail())
 # Here Matplotlib is used to print the bar graph for Deforestation in [2001-05]
 print(var.plot(x='State', y='(2001-05)', kind='bar', figsize=(10, 10)))
