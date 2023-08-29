@@ -32,8 +32,8 @@ The `main` function reads the deforestation data from an Excel file, displays th
 ## Conclusion
 This script provides a structured approach to analyzing and visualizing deforestation data, offering insights into deforestation trends across different regions and time periods.
 
-Created with expertise by [Your Name]
+Created with expertise by  Rajvardhan 
 
-For any inquiries or feedback, please feel free to reach out to me at [Your Email Address].
+For any inquiries or feedback, please feel free to reach out to me at raj2003patil@gmail.com.
 
 **Note:** Ensure you have the required libraries and a compatible Python environment to run this script successfully.
